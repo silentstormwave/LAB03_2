@@ -12,3 +12,4 @@ D:\LAB03_2\obj\Debug\net10.0\refint\LAB03_2.dll
 D:\LAB03_2\obj\Debug\net10.0\LAB03_2.pdb
 D:\LAB03_2\obj\Debug\net10.0\LAB03_2.genruntimeconfig.cache
 D:\LAB03_2\obj\Debug\net10.0\ref\LAB03_2.dll
+D:\LAB03_2\obj\Debug\net10.0\LAB03_2.sourcelink.json
